@@ -1,6 +1,6 @@
-# React Crash Course 2021 (Todo-list App)
+# React Todo-list App
 
-It includes the react UI as well as JSON-server for our mock backend
+It includes the react UI as well as JSON-server for our mock backend.
 
 ## Usage
 
